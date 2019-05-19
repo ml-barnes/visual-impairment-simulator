@@ -23,6 +23,9 @@ git clone https://gitlab.op-bit.nz/BIT/Project/Mobile-Development/visual-impairm
 2. ***Generate Signed APK...***
 3. Fill in the keystore information *(you only need to do this once manually and then let Android Studio remember it)*
 
+## Play Store
+https://play.google.com/store/apps/details?id=com.op.mike.vis
+
 ## Maintainers
 This project is mantained by:
 * Mike Barnes
